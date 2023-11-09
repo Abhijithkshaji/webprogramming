@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Frames</title>
+   </head>
+   <frameset rows = "30%,70%">
+	<frame name = "top" src = "/html/top.html" />
+   <frameset cols= "30%,70%">
+	<frame name = "main" src = "/html/main.html" />
+	<frame name = "bottom" src = "/html/bottom.html" />
+      <noframes>
+         <body>Your browser does not support frames.</body>
+      </noframes>
+   </frameset>   
+</html>

@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Frames</title>
+</head>
+<body bgcolor="yellow">
+	The Ernakulam District is situated in Central Kerala in India.
+</body>   
+</html>

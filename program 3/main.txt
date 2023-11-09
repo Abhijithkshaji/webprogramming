@@ -1,0 +1,18 @@
+<html>
+
+   <head>
+      <title>HTML Frames</title>
+   </head>
+<body bgcolor="green">
+<h1>PAGES</h1>
+<a href="Thrissur.html" target="bottom">Thrissur</a>
+<br>
+<br>
+<br>
+<a href="ekm.html" target="bottom">Ernakulam</a>
+<br>
+<br>
+<br>
+<a href="Floation.html" target="bottom">Floating</a>
+</body>
+</html>

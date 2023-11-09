@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>IFrames</title>
+   </head>
+   <body bgcolor="yellow">
+	<center>floating<br></center>
+	<center><iframe src="image.jpg"></iframe><center>
+</body> 
+</html>
